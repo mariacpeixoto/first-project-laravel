@@ -19,3 +19,9 @@ Route::get('/', function () {
 Route::get('/minhaprimeiraview', function () {
     return view('minhaprimeiraview');
 });
+Route::get('/minhasegundaview', function () {
+    return view('minhasegundaview');
+});
+Route::get('/minhaterceiraview', function () {
+    return view('minhaterceiraview');
+});

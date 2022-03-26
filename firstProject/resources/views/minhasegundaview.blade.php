@@ -21,6 +21,6 @@
         </style>
     </head>
     <body class="antialiased">
-        <h1>Minha Primeira View</h1>
+        <h1>Minha Segunda View</h1>
     </body>
 </html>
